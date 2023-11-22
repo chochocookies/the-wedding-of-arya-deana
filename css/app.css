@@ -104,8 +104,8 @@ body::-webkit-scrollbar {
 }
 
 .story {
-    padding-top: 10rem;
-    padding-bottom: 8rem;
+    padding-top: 3rem;
+    padding-bottom: 1rem;
 }
 .story span {
     text-transform: uppercase;
