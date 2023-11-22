@@ -152,8 +152,8 @@ body::-webkit-scrollbar {
 }
 
 .timeline li .timeline-image {
-    width: 160px;
-    height: 160px;
+    width: 80px;
+    height: 80px;
     background-color: #cccc;
     position: absolute;
     left: 50%;
